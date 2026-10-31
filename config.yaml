@@ -1,0 +1,7 @@
+data_root: ../AstroData/Lights
+results_dir: ../AstroData/results
+
+# ASIAir typically dumps files into a folder structure like:
+# /ASIAIR_exported/Autorun/Light/target_name/
+# Set this if you're reading directly from ASIAir SD card or share
+asiair_root: null  # e.g., /media/asiair_sd/Autorun
